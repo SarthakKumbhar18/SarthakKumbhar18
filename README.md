@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkumbhar18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkumbhar18" /> </p>
 
-- 👯 I’m looking to collaborate on **Djnago Projects**
+- 👯 I’m looking to collaborate on **Django Projects**
 
 - 👀 I’m passionate about **Python development, data analysis, and web technologies.**
 
