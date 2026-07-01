@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sarthak Kumbhar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Software Developer | Java • Python • SQL | Passionate about Problem Solving and Building Real-World Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkumbhar18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkumbhar18" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sarthakkumbhar18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkumbhar18" />
+</p>
 
-- 👯 I’m looking to collaborate on **Django Projects**
+- 💻 I enjoy building **full-stack applications, solving DSA problems, and exploring new technologies.**
 
-- 👀 I’m passionate about **Python development, data analysis, and web technologies.**
+- 🌱 Currently strengthening my skills in **Java, Data Structures & Algorithms, System Design fundamentals, Networking, and Operating Systems.**
 
-- 🌱 Currently honing my skills in **Django, MySQL, Power BI, and problem-solving**.
+- 🚀 Experienced with **Java, Python, Django, SQL, MySQL, JavaScript, HTML, CSS, and Git/GitHub.**
 
-  
-- 💞️ Open to collaborating on **Python projects, data-driven applications, and web development.**
+- 🤝 Open to collaborating on **software development, backend development, web applications, and open-source projects.**
 
-- 📫 You can reach me at **18skumbhar01@gmail.com.**
+- 📚 Always learning and improving through **coding, projects, and continuous practice.**
 
-- ⚡ Fun fact **I speak fluent Python, but my print statements still debug my conversations.**
+- 📫 Reach me at **18skumbhar01@gmail.com**
+
+- ⚡ Fun fact: **I enjoy turning ideas into code—and bugs into lessons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
