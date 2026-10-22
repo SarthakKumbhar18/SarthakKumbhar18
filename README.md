@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Kumbhar</h1>
-<h3 align="center">Software Developer | Java • Python • SQL | Passionate about Problem Solving and Building Real-World Applications</h3>
+<h3 align="center">Software Developer | Python • Java • SQL | Passionate about Problem Solving and Building Real-World Applications</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sarthakkumbhar18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkumbhar18" />
