@@ -9,7 +9,7 @@
 
 - 🌱 Currently strengthening my skills in **Java, Data Structures & Algorithms, System Design fundamentals, Networking, and Operating Systems.**
 
-- 🚀 Experienced with **Java, Python, Django, SQL, MySQL, JavaScript, HTML, CSS, and Git/GitHub.**
+- 🚀 Experienced with **Python, Java, Django, SQL, MySQL, JavaScript, HTML, CSS, and Git/GitHub.**
 
 - 🤝 Open to collaborating on **software development, backend development, web applications, and open-source projects.**
 
